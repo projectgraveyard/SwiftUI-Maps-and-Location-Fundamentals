@@ -22,6 +22,7 @@
 		D3CE59DF24F95D180081DEB5 /* MapViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3CE59DE24F95D180081DEB5 /* MapViewUI.swift */; };
 		D3E10F7524D333EF008CE7C5 /* places.json in Resources */ = {isa = PBXBuildFile; fileRef = D3E10F7424D333EF008CE7C5 /* places.json */; };
 		D3E10F7724D36559008CE7C5 /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E10F7624D36559008CE7C5 /* Place.swift */; };
+		F26B9EE7269A2D5E00EBAA7F /* Snapshotter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26B9EE6269A2D5E00EBAA7F /* Snapshotter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		D3CE59DE24F95D180081DEB5 /* MapViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewUI.swift; sourceTree = "<group>"; };
 		D3E10F7424D333EF008CE7C5 /* places.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = places.json; path = "InterestingPlaces/Preview Content/places.json"; sourceTree = SOURCE_ROOT; };
 		D3E10F7624D36559008CE7C5 /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
+		F26B9EE6269A2D5E00EBAA7F /* Snapshotter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snapshotter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				D3E10F7624D36559008CE7C5 /* Place.swift */,
 				D320786824D4B5620017857E /* MapDirectory.swift */,
 				D34F897C24FD7159007DEECF /* LocationQuery.swift */,
+				F26B9EE6269A2D5E00EBAA7F /* Snapshotter.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				D3500EE624D2007D002922AB /* InterestingPlacesApp.swift in Sources */,
 				D3857DC624F94E480032F862 /* MapView.swift in Sources */,
 				D3506E9124F80DAB00EA23B1 /* TitleView.swift in Sources */,
+				F26B9EE7269A2D5E00EBAA7F /* Snapshotter.swift in Sources */,
 				D3CE59DF24F95D180081DEB5 /* MapViewUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
